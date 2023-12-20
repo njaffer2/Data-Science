@@ -1,4 +1,4 @@
-# Sarah Fuchi - Data Science Projects Portfolio
+# Nusrat Jaffer - Data Science Projects Portfolio
 
 ## Index
 
