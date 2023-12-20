@@ -2,7 +2,7 @@
 
 ## Index
 
-This repository holds the below projects. Currently they're binned in five different categories.
+This repository holds the below projects. Currently they're binned in four different categories.
 
 1. [EDA (Exploratory data Analysis)](https://github.com/sarahfuchi/Data-Science/blob/main/EDA%20(Exploratory%20data%20Analysis)/README.md)
 2. [Prediction (Regression)](https://github.com/sarahfuchi/Data-Science/blob/main/Prediction%20(Regression)/README.md)
